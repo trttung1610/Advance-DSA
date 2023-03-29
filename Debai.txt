@@ -1,0 +1,5 @@
+Cho dãy các khóa sau: 55 62 8 94 18 10 5 39 12 86 2 50 78 11 68 23 73 3 66 42. (*)
+Thêm vào cây-B bậc 3. Cho biết khi thêm khóa nào thì chiều cao của cây thay đỗi. Vẽ cây sau khi thêm tất cả các khóa trên.
+Xóa khóa 18, 55, 86, 5, 12. Cho  biết khi xóa khóa nào thì chiều cao của cây thay đỗi. Vẽ cây sau khi xóa từng khóa.
+Nếu không xét đến thứ tự các khóa ở dãy (*) thì ở trường hợp tốt nhất cây có chiều cao là bao nhiêu.
+Lưu file đưới định dạng file.pdf (cú pháp nhomX.pdf)
